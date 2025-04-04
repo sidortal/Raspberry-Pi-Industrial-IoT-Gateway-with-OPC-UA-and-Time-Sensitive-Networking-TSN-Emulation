@@ -1,0 +1,4 @@
+git clone https://github.com/open62541/open62541.git
+cd open62541
+cmake -DUA_NAMESPACE_ZERO=FULL .
+make
