@@ -1,0 +1,2 @@
+gcc basic_server.c -o server -lopen62541
+./server
